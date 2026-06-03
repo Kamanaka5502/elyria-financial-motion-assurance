@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="assets/elyria_financial_motion_assurance_hero.jpg" alt="Elyria Financial Motion Assurance" width="100%">
+</p>
+
+<p align="center">
   <img alt="Elyria" src="https://img.shields.io/badge/ELYRIA-FINANCIAL_MOTION_ASSURANCE-00d9ff?style=for-the-badge">
   <img alt="Assurance" src="https://img.shields.io/badge/ASSURANCE-PRE_EXECUTION-0284c7?style=for-the-badge">
   <img alt="Interface" src="https://img.shields.io/badge/INTERFACE-OLD_STACK_COMPATIBLE-334155?style=for-the-badge">
